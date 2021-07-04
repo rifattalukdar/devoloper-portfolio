@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-widh{
     width: 50%;
@@ -28,6 +29,11 @@ section{
 }
 .toop-benar{
     background-image: url(images/top-banner.png);
+}
+.big-dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
         
 
